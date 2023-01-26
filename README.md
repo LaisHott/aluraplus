@@ -12,7 +12,7 @@ Laout com 3 sessões mostrando telas da plataforma em diferentes dispositivos.
 
 ## 📁 Acesso ao projeto
 
-O projeto final do curso se encontra neste link: 
+O projeto final do curso se encontra neste link: (https://aluraplus-eta-five.vercel.app)
 
 Neste repositório você tem acesso a todo o material produzido para essa página web.
 
